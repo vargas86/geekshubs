@@ -1,0 +1,20 @@
+/*style*/
+body {font-family: 'Nanum Gothic', sans-serif;}
+.row {margin-right: 0px !important; margin-left: 0px !important;}
+.w100 {width: 100%;} .w90 {width: 90%;} .w80 {width: 80%;} .w70 {width: 70%;} .w60 {width: 60%;} .w50 {width: 50%;} .w40 {width: 40%;} .w30 {width: 30%;} .w20 {width: 20%;} .w10 {width: 10%;}
+.txtcenter {text-align: center} .txtleft {text-align: left;} .txtright {text-align: right;}
+.center {display: block; margin: 0 auto;}
+a.navbar-brand img {max-width: 60px;margin-left: 25px;}
+.ico-wrapper {display: block;margin-top: 15px;float: right;}
+.social-ico img {float: right;max-width: 35px;margin: 0 3px;padding: 9px 0px;}
+.gray-block {width: 100%;height: 300px;background-color: gray;}
+.blue {background-color: blue;}
+#header-banner {background-image: url(../images/construccion.jpg);height: 600px;background-size: cover;}
+nav.navbar.navbar-default {margin-bottom: 0px !important;background-color: #ffffff;}
+.navbar-brand {padding: 0px 21px;}
+
+div.corpo img {width: 100%;}
+.corpo {position: relative;}
+.box_title {position: absolute;bottom: 50%;margin: 0 auto;display: block;width: 100%;}
+
+.credits {font-size: 10px;text-transform: uppercase;}
